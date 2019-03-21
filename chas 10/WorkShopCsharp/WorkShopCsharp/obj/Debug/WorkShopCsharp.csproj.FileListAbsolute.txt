@@ -1,0 +1,10 @@
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\bin\Debug\WorkShopCsharp.exe.config
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\bin\Debug\WorkShopCsharp.exe
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\bin\Debug\WorkShopCsharp.pdb
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\bin\Debug\People.dll
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\bin\Debug\People.pdb
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\obj\Debug\WorkShopCsharp.csprojAssemblyReference.cache
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\obj\Debug\WorkShopCsharp.csproj.CoreCompileInputs.cache
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\obj\Debug\WorkShopCsharp.csproj.CopyComplete
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\obj\Debug\WorkShopCsharp.exe
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\WorkShopCsharp\obj\Debug\WorkShopCsharp.pdb

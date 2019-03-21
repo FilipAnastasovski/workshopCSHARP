@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkShopCsharp", "WorkShopCsharp\WorkShopCsharp.csproj", "{7349AE67-0868-433A-9C1A-4B7199B8842B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "People\People.csproj", "{AEB0DBC4-1CA2-4C69-A790-F73F6AF1CA99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7349AE67-0868-433A-9C1A-4B7199B8842B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7349AE67-0868-433A-9C1A-4B7199B8842B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7349AE67-0868-433A-9C1A-4B7199B8842B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7349AE67-0868-433A-9C1A-4B7199B8842B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB0DBC4-1CA2-4C69-A790-F73F6AF1CA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB0DBC4-1CA2-4C69-A790-F73F6AF1CA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB0DBC4-1CA2-4C69-A790-F73F6AF1CA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB0DBC4-1CA2-4C69-A790-F73F6AF1CA99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED66F42-E1BB-41B5-B4A4-803AE3162E5B}
+	EndGlobalSection
+EndGlobal

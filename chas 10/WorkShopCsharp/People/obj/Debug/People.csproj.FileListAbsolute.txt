@@ -1,0 +1,6 @@
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\People\bin\Debug\People.dll
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\People\bin\Debug\People.pdb
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\People\obj\Debug\People.csprojAssemblyReference.cache
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\People\obj\Debug\People.dll
+C:\Users\filip.anastasovski\Desktop\Filip_A\C#\chas 10\WorkShopCsharp\People\obj\Debug\People.pdb
